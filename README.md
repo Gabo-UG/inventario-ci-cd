@@ -1,6 +1,6 @@
 # inventario-ci-cd
-
-Práctica de CI/CD — Carrera de Software, Universidad de Guayaquil  
+Estudiante: Vera Lopez Alex Gabriel
+Práctica de CI/CD — Carrera de Software, Universidad de Guayaquil
 Unidad 1: Gestión de la Configuración del Software
 
 ## Tecnologías
